@@ -17,7 +17,7 @@
 
 ---
 
-## 🌐 Web Application Projects
+## 🌐 Web Application Projects & Games
 
 | Project | Description |
 |--------|-------------|
