@@ -21,8 +21,9 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔗 [**DDD Web**](https://github.com/sekanderdany/ddd-web) | Minimal web server built with Node.js & Pug for Docker demos. |
 | 🔗 [**Button RPG Quest**](https://github.com/sekanderdany/button-rpg-quest) | Welcome to Button RPG Quest — a fun, browser-based click-driven RPG where you slay monsters, earn gold, and defeat a fearsome dragon... all with the power of JavaScript and buttons! |
+| 🔗 [**DDD Web**](https://github.com/sekanderdany/ddd-web) | Minimal web server built with Node.js & Pug for Docker demos. |
+
 ---
 
 ## ☁️ DevOps Projects
