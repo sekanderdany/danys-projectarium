@@ -22,6 +22,7 @@
 | Project | Description |
 |--------|-------------|
 | 🔗 [**Button RPG Quest**](https://github.com/sekanderdany/button-rpg-quest) | Welcome to Button RPG Quest — a fun, browser-based click-driven RPG where you slay monsters, earn gold, and defeat a fearsome dragon... all with the power of JavaScript and buttons! |
+| 🔗 [**Front Movie App**](https://github.com/sekanderdany/frontend-movie-app) | A simple and elegant frontend web application that allows users to browse and search for movies using The Movie Database (TMDb) API. This project displays trending/popular movies and lets users search by title, displaying movie posters and titles in a clean layout. |
 | 🔗 [**DDD Web**](https://github.com/sekanderdany/ddd-web) | Minimal web server built with Node.js & Pug for Docker demos. |
 
 ---
