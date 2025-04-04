@@ -8,14 +8,12 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔗 [**Vyper Python Smart Contracts Blockchain**](https://github.com/sekanderdany/Vyper-Python-Smart-Contracts-Blockchain) | Ethereum smart contracts using Vyper, a Pythonic blockchain language. |
-| 🔗 [**Python Basketball Game**](https://github.com/sekanderdany/Python-Basketball-Game) | Simulates a basketball tournament using Python and CSV data. |
 | 🔗 [**Python OOP for Beginners**](https://github.com/sekanderdany/Python-OOP-for-Beginners) | OOP fundamentals with real-world examples for learners. |
 | 🔗 [**OOP Python I**](https://github.com/sekanderdany/OOP-Python-I) | Practice-oriented Python OOP exercises. |
 | 🔗 [**FitData Insights**](https://github.com/sekanderdany/FitData_Insights) | Fitness data analysis and visualization using Python. |
-| 🔗 [**Moccasin Full Course CU**](https://github.com/sekanderdany/moccasin-full-course-cu) | Complete smart contract development course with Python & Vyper. |
+| 🔗 [**Vyper Python Smart Contracts Blockchain**](https://github.com/sekanderdany/Vyper-Python-Smart-Contracts-Blockchain) | Ethereum smart contracts using Vyper, a Pythonic blockchain language. |
+| 🔗 [**Python Basketball Game**](https://github.com/sekanderdany/Python-Basketball-Game) | Simulates a basketball tournament using Python and CSV data. |
 | 🔗 [**Canary Deployment Tool**](https://github.com/sekanderdany/canary) | Python-based canary release monitor for production safety. |
-
 
 ---
 
