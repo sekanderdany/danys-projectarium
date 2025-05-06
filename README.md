@@ -8,7 +8,7 @@
 
 | Project | Description |
 |--------|-------------|
-| 🔗 [**Online Marketplace with Django**](https://github.com/sekanderdany/Online-Marketplace-with-Django.git) |
+| 🔗 [**Online Marketplace with Django**](https://github.com/sekanderdany/Online-Marketplace-with-Django.git) | A basic Django project for building an online marketplace using Python and the Django web framework. |
 | 🔗 [**Python OOP for Beginners**](https://github.com/sekanderdany/Python-OOP-for-Beginners) | OOP fundamentals with real-world examples for learners. |
 | 🔗 [**OOP Python I**](https://github.com/sekanderdany/OOP-Python-I) | Practice-oriented Python OOP exercises. |
 | 🔗 [**FitData Insights**](https://github.com/sekanderdany/FitData_Insights) | Fitness data analysis and visualization using Python. |
